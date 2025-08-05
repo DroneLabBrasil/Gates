@@ -5,3 +5,4 @@ Desenhados por Ricardo Yamamoto @yamas75
 
 Fabricados em cortadora laser em MDF de 3mm
 
+CC BY-NC-SA 4.0
